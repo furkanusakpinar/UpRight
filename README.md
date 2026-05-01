@@ -77,8 +77,4 @@ npx expo start
 
 ---
 
-<div align="center">
-  Developed with ❤️ for a healthier spine.
-</div>
-
 </div>
