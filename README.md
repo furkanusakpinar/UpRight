@@ -1,8 +1,6 @@
 <div align="center">
 
-# UpRight
-
-<img src="assets/images/icon.png" width="125" />
+# 🆙 UpRight
 
 **A premium, minimalist posture tracking assistant designed to protect your spinal health.**
 
